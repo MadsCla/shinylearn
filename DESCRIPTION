@@ -1,0 +1,11 @@
+Package: shinylearn
+Type: Package
+Title: Learning To Build Shiny
+Version: 0.0.0.9000
+Author: Madeleine
+Maintainer: Madeleine <madeleineclarkson@gmail.com>
+Description: Learning to build a Shiny application.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.3
